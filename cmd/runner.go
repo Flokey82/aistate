@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/Flokey82/go_gens/aistate"
 	"log"
+
+	"github.com/Flokey82/go_gens/aistate"
 )
 
 func main() {
