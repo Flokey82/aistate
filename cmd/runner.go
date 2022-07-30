@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Flokey82/go_gens/aistate"
+	"github.com/Flokey82/aistate"
 )
 
 func main() {
